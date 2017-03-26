@@ -28,8 +28,8 @@ function myselfInfo() {
 			'Paweł Rachwał' + '\n' + 
 			'Informatyka Stosowana' + '\n' + 
 			'KrDUIS1012' + '\n' + 
-			'181483' + '\n' + 
+			'181483' + '\n';
 
-	navigator.notification.alert(infoPersonal);
+	navigator.notification.alert(infoPeronal);
 	
 }
