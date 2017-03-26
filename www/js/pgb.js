@@ -20,3 +20,16 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function myselfInfo() {
+
+	infoPeronal =  'Hi! My personal data:' + '\n' +
+			'=====' + '\n' +
+			'Paweł Rachwał' + '\n' + 
+			'Informatyka Stosowana' + '\n' + 
+			'KrDUIS1012' + '\n' + 
+			'181483' + '\n' + 
+
+	navigator.notification.alert(infoPersonal);
+	
+}
